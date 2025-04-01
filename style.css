@@ -11,5 +11,5 @@ body{
     color: rgb(37, 88, 3);
     background-color: blueviolet;
     padding: 30px;
-    max-width: 0px;
+    margin: 0px;
 }
