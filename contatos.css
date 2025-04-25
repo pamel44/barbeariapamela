@@ -18,3 +18,13 @@ footer{
     font-size: 13px;
     margin: 20px 0 0;
 }
+header{
+    background: #bbb;
+    padding: 20px;
+
+}
+.caixa{
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
