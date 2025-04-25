@@ -5,3 +5,10 @@ body{
     /* form{
     text-align: center;
 }  */
+
+footer{
+    text-align: center;
+    background: url("bg.jpg");
+    padding: 40px 0;
+    background-color: #000;
+}

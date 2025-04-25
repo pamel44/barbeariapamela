@@ -45,3 +45,10 @@ ul{
  .imagembeneficios{
     width: 50%;
  }
+
+ footer{
+    text-align: center;
+    background: url("bg.jpg");
+    padding: 40px 0;
+    background-color: #000;
+}
